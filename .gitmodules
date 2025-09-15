@@ -1,0 +1,4 @@
+[submodule "SharpToolsMCP"]
+	path = SharpToolsMCP
+	url = https://github.com/fschwiet/SharpToolsMCP
+	branch = main
