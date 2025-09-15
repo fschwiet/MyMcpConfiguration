@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "SharpTools": {
+      "type": "stdio",
+      "command": "C:\\mcp\\sharptoolsmcp\\SharpTools.StdioServer\\bin\\Debug\\net8.0\\SharpTools.StdioServer.exe",
+      "args": [
+        "--log-directory",
+        "C:\\mcp\\sharptoolsmcp.logs",
+        "--log-level",
+        "Information"
+      ],
+      "env": {}
+    },
+    "MicrosoftLearn": {
+      "type": "http",
+      "url": "https://learn.microsoft.com/api/mcp"
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    }
+  }
+}
