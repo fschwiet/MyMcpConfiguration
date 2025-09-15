@@ -1,0 +1,8 @@
+{
+  "enabledMcpjsonServers": [
+    "SharpTools",
+    "MicrosoftLearn",
+    "context7"
+  ],
+  "enableAllProjectMcpServers": true
+}
