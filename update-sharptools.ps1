@@ -1,2 +1,2 @@
-git submodule update --remote --merge
+git submodule update --init --recursive --remote
 dotnet build ./SharpToolsMCP
